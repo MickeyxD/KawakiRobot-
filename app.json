@@ -1,5 +1,5 @@
 {
-      "name": "Siesta Robot",
+      "name": "Kawaki Robot",
       "description": "A Powerful Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/566d0f3fb2107bd8ecb27.jpg",  
-   "repository": "https://github.com/shiinobu/https://github.com/shiinobu/SiestaRobot",
+   "repository": "https://github.com/shiinobu/https://github.com/MickeyxD/KawakiRobot",
    "addons": [
           {
          "options": {
@@ -69,7 +69,7 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "siestaxbot"
+         "value": "Kawaki_Robot"
       },
 
       "BOT_ID": {
@@ -79,12 +79,12 @@
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "saint_foire"
+         "value": "MickeyxD"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "machinaxsupport"
+         "value": "KawakiSupportChat"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
